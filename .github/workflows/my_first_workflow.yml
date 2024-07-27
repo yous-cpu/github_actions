@@ -1,6 +1,5 @@
  my_first_workflow.yml
 Collez ces lignes dans le nouveau fichier :
-
 name: Shell commands
 on: [push]
 jobs:
